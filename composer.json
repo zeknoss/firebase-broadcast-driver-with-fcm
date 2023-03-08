@@ -47,11 +47,5 @@
         "post-package-install": [
             "@php artisan vendor:publish --provider = \"zeknoss\\Firebase\\FireBaseBroadcastProvider\""
         ]
-    },
-    "funding": [
-        {
-            "type": "github",
-            "url": "https://github.com/sponsors/ctf0"
-        }
-    ]
+    }
 }
