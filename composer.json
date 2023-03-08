@@ -1,5 +1,5 @@
 {
-    "name": "zeknoss/firebase-broadcast-driver",
+    "name": "zeknoss/firebase-broadcast-driver-with-fcm",
     "description": "a firebase broadcast driver for laravel (fork of ctf0 with some improvements)",
     "homepage": "https://github.com/zeknoss/laravel-firebase-broadcast-driver",
     "license": "MIT",
