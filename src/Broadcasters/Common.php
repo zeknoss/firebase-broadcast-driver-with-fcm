@@ -1,6 +1,6 @@
 <?php
 
-namespace ctf0\Firebase\Broadcasters;
+namespace zeknoss\Firebase\Broadcasters;
 
 use Illuminate\Broadcasting\Broadcasters\UsePusherChannelConventions;
 use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
