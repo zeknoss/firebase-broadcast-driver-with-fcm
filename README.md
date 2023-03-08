@@ -6,7 +6,7 @@
 
 ## Installation
 
-- `composer require zeknoss/firebase-broadcast-driver`
+- `composer require zeknoss/firebase-broadcast-driver-with-fcm`
 
 - the package internally use [`kreait/firebase-php`](https://firebase-php.readthedocs.io/en/latest/) to send data to firebase.
 
