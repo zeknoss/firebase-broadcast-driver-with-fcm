@@ -1,6 +1,6 @@
 <?php
 
-namespace ctf0\Firebase\Broadcasters;
+namespace zeknoss\Firebase\Broadcasters;
 
 use Illuminate\Support\Arr;
 use Kreait\Firebase\Factory;
