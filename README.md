@@ -1,12 +1,12 @@
 <h1 align="center">
     FireBase Broadcast Driver
     <br>
-    <a href="https://packagist.org/packages/ctf0/firebase-broadcast-driver"><img src="https://img.shields.io/packagist/v/ctf0/firebase-broadcast-driver.svg" alt="Latest Stable Version" /></a> <a href="https://packagist.org/packages/ctf0/firebase-broadcast-driver"><img src="https://img.shields.io/packagist/dt/ctf0/firebase-broadcast-driver.svg" alt="Total Downloads" /></a>
+    <a href="https://packagist.org/packages/zeknoss/firebase-broadcast-driver-with-fcm"><img src="https://img.shields.io/packagist/v/zeknoss/firebase-broadcast-driver-with-fcm.svg" alt="Latest Stable Version" /></a> <a href="https://packagist.org/packages/zeknoss/firebase-broadcast-driver-with-fcm"><img src="https://img.shields.io/packagist/dt/zeknoss/firebase-broadcast-driver-with-fcm.svg" alt="Total Downloads" /></a>
 </h1>
 
 ## Installation
 
-- `composer require ctf0/firebase-broadcast-driver`
+- `composer require zeknoss/firebase-broadcast-driver`
 
 - the package internally use [`kreait/firebase-php`](https://firebase-php.readthedocs.io/en/latest/) to send data to firebase.
 
