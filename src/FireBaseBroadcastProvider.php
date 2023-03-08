@@ -1,10 +1,10 @@
 <?php
 
-namespace ctf0\Firebase;
+namespace zeknoss\Firebase;
 
-use ctf0\Firebase\Broadcasters\FSDB;
-use ctf0\Firebase\Broadcasters\RTDB;
-use ctf0\Firebase\Broadcasters\FCM;
+use zeknoss\Firebase\Broadcasters\FSDB;
+use zeknoss\Firebase\Broadcasters\RTDB;
+use zeknoss\Firebase\Broadcasters\FCM;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Broadcasting\BroadcastManager;
 
