@@ -1,6 +1,6 @@
 <?php
 
-namespace ctf0\Firebase\Broadcasters;
+namespace zeknoss\Firebase\Broadcasters;
 
 use Exception;
 use Kreait\Firebase\Factory;
